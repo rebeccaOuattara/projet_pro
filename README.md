@@ -1,6 +1,10 @@
 # projet_pro
 
 ### Hi there 👋
+
+![Image du Projet](https://raw.githubusercontent.com/rebeccaOuattara/projet_pro/28235b8df17ea1fc881f77db1f4c4c788fbc75ef/P1.jpg)
+
+
 <h2>💻 Je suis Ouattara Maimouna Rebecca </h2>
 
 
