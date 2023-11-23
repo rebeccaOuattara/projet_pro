@@ -68,3 +68,6 @@
 
 
 <a href="mailto:rebecca16ouatt@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+
+<h2>💻 merci d'avoir lu  </h2>
